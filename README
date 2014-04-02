@@ -1,0 +1,11 @@
+
+#----------------
+
+Requirements : 
+	- Python 	2.7.3	
+	- Pygame 	1.9.1	http://www.pygame.org/download.shtml
+	- Numpy 	1.7.1	http://sourceforge.net/projects/numpy/files/NumPy/
+
+#----------------
+
+	little-arkanoid-full-zip.py - simple arkanoid-like game in just 8 lines and 0.647 kb
