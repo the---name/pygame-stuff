@@ -9,3 +9,5 @@ Requirements :
 #----------------
 
 little-arkanoid-full-zip.py - simple arkanoid-like game in just 8 lines and 0.647 kb
+
+little-pong-full-zio.py - pong-like game in 6 lines and 0.631 kb
